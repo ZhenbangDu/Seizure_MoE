@@ -15,8 +15,8 @@ The code is based on the [Mixture of Experts](https://github.com/davidmrau/mixtu
   journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering}, 
   title={Mixture of Experts for EEG-Based Seizure Subtype Classification}, 
   year={2023},
-  volume={},
+  volume={31},
   number={},
-  pages={1-1},
+  pages={4781-4789},
   doi={10.1109/TNSRE.2023.3337802}}
 ```
