@@ -1,5 +1,6 @@
 # Seizure-MoE & Mix-Moe
-The official code for the paper [Mixture of Experts for EEG-Based Seizure Subtype Classification](https://ieeexplore.ieee.org/document/10335740).
+The official code for the paper [Mixture of Experts for EEG-Based Seizure Subtype Classification](https://ieeexplore.ieee.org/document/10335740) (IEEE TNSRE).
+
 <p align="center">
 <img width="600" alt="image" src="Figure1.png"> 
 </p>
